@@ -6,8 +6,8 @@ This repository is built with Vue 3 and Vite to provide a foundation for testing
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/your-username/vue3-vite-ssr.git
-   cd vue3-vite-ssr
+   git clone https://github.com/warp-ds/test-ssr-vue.git
+   cd test-ssr-vue
 ```
 
 2. Install the dependencies:
